@@ -1,2 +1,3 @@
 # ejemplos.py
-Aca estan los ejemplos de los temas que se vieron en la presentacion de power point
+Aca estan los ejemplos de los temas que se vieron en el power point
+CONCLUSION: VIENDO DE MANERA OBJETIVA AMBOS CODIGO A LA HORA DE SER EJECUTADOS LA PRIMERA MANERA RESULTO SER LA MAS EFECTIVA YA QUE LA OTRA FORMA ES UN POCO MAS DIFICIL DE INTERPRTAR Y MANEJAR 
